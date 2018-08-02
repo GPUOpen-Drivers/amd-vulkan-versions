@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amd_drivers>
+    <driver version="18.7.1" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-18-7-1</download-url>
+        <internal-version>18.20.19.01</internal-version>
+        <windows-version>24.20.12019.1010</windows-version>
+        <vulkan-version>2.0.33</vulkan-version>
+    </driver>
+    <driver version="18.6.1" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.6.1-Release-Notes.aspx</download-url>
+        <internal-version>18.10.21.01</internal-version>
+        <windows-version>24.20.11021.1000</windows-version>
+        <vulkan-version>2.0.33</vulkan-version>
+    </driver>
+    <driver version="18.5.2" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.5.2-Release-Notes.aspx</download-url>
+        <internal-version>18.10.19.01</internal-version>
+        <windows-version>24.20.11019.1004</windows-version>
+        <vulkan-version>2.0.33</vulkan-version>
+    </driver>
+    <driver version="18.5.1" operating-system="Windows">
+        <whql>WHQL</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.5.1-Release-Notes.aspx</download-url>
+        <internal-version>18.10.16.01</internal-version>
+        <windows-version>24.20.11016.4</windows-version>
+        <vulkan-version>2.0.20</vulkan-version>
+    </driver>
+    <driver version="18.4.1" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.4.1-Release-Notes.aspx</download-url>
+        <internal-version>18.10.01.05</internal-version>
+        <windows-version>24.20.11001.5003</windows-version>
+        <vulkan-version>2.0.20</vulkan-version>
+    </driver>
+    <driver version="18.3.4" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.3.4-Release-Notes.aspx</download-url>
+        <internal-version>17.50.33.05</internal-version>
+        <windows-version>23.20.15033.5003</windows-version>
+        <vulkan-version>2.0.18</vulkan-version>
+    </driver>
+    <driver version="18.3.3" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.3.3-Release-Notes.aspx</download-url>
+        <internal-version>17.50.33.01</internal-version>
+        <windows-version>23.20.15033.1003</windows-version>
+        <vulkan-version>2.0.18</vulkan-version>
+    </driver>
+    <driver version="18.3.2" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.3.2-Release-Notes.aspx</download-url>
+        <internal-version>17.50.27.02</internal-version>
+        <windows-version>23.20.15027.2002</windows-version>
+        <vulkan-version>2.0.14</vulkan-version>
+    </driver>
+    <driver version="18.3.1" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.3.1-Release-Notes.aspx</download-url>
+        <internal-version>17.50.27.01</internal-version>
+        <windows-version>23.20.15027.1004</windows-version>
+        <vulkan-version>2.0.14</vulkan-version>
+    </driver>
+    <driver version="18.2.3" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.2.3-Release-Notes.aspx</download-url>
+        <internal-version>17.50.25.01</internal-version>
+        <windows-version>23.20.15025.1004</windows-version>
+        <vulkan-version>2.0.14</vulkan-version>
+    </driver>
+    <driver version="18.2.2" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.2.2-Release-Notes.aspx</download-url>
+        <internal-version>17.50.17.04</internal-version>
+        <windows-version>23.20.15017.4003</windows-version>
+        <vulkan-version>N/A</vulkan-version>
+    </driver>
+    <driver version="18.2.1" operating-system="Windows">
+        <whql>WHQL</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.2.1-Release-Notes.aspx</download-url>
+        <internal-version>17.50.17.03</internal-version>
+        <windows-version>23.20.15017.3010</windows-version>
+        <vulkan-version>N/A</vulkan-version>
+    </driver>
+    <driver version="18.1.1" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Adrenalin-Edition-18.1.1-Release-Notes.aspx</download-url>
+        <internal-version>17.50.15.01</internal-version>
+        <windows-version>23.20.15015.1002</windows-version>
+        <vulkan-version>N/A</vulkan-version>
+    </driver>
+</amd_drivers>
