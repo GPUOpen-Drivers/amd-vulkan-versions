@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
-    <driver version="18.8.1" operating-system="Windows">
+    <driver version="18.8.2" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-18-8-2</download-url>
+        <internal-version>18.30.11.01</internal-version>
+        <windows-version>24.20.13011.1009</windows-version>
+        <vulkan-version>2.0.49</vulkan-version>
+   </driver>
+   <driver version="18.8.1" operating-system="Windows">
         <whql>Optional</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-18-8-1</download-url>
         <internal-version>18.30.01.01</internal-version>
