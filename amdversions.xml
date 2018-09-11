@@ -6,6 +6,7 @@
         <internal-version>18.30.11.01</internal-version>
         <windows-version>24.20.13011.1009</windows-version>
         <vulkan-version>2.0.49</vulkan-version>
+        <release-date>2018-08-27</release-date>
    </driver>
    <driver version="18.8.1" operating-system="Windows">
         <whql>Optional</whql>
@@ -13,6 +14,7 @@
         <internal-version>18.30.01.01</internal-version>
         <windows-version>24.20.13001.1010</windows-version>
         <vulkan-version>2.0.45</vulkan-version>
+        <release-date>2018-08-06</release-date>
     </driver>
     <driver version="18.7.1" operating-system="Windows">
         <whql>Optional</whql>
@@ -20,6 +22,7 @@
         <internal-version>18.20.19.01</internal-version>
         <windows-version>24.20.12019.1010</windows-version>
         <vulkan-version>2.0.33</vulkan-version>
+        <release-date>2018-07-12</release-date>
     </driver>
     <driver version="18.6.1" operating-system="Windows">
         <whql>Optional</whql>
@@ -27,6 +30,7 @@
         <internal-version>18.10.21.01</internal-version>
         <windows-version>24.20.11021.1000</windows-version>
         <vulkan-version>2.0.33</vulkan-version>
+        <release-date>2018-06-13</release-date>
     </driver>
     <driver version="18.5.2" operating-system="Windows">
         <whql>Optional</whql>
@@ -34,6 +38,7 @@
         <internal-version>18.10.19.01</internal-version>
         <windows-version>24.20.11019.1004</windows-version>
         <vulkan-version>2.0.33</vulkan-version>
+        <release-date>2018-05-30</release-date>
     </driver>
     <driver version="18.5.1" operating-system="Windows">
         <whql>WHQL</whql>
@@ -41,6 +46,7 @@
         <internal-version>18.10.16.01</internal-version>
         <windows-version>24.20.11016.4</windows-version>
         <vulkan-version>2.0.20</vulkan-version>
+        <release-date>2018-05-23</release-date>
     </driver>
     <driver version="18.4.1" operating-system="Windows">
         <whql>Optional</whql>
@@ -48,6 +54,7 @@
         <internal-version>18.10.01.05</internal-version>
         <windows-version>24.20.11001.5003</windows-version>
         <vulkan-version>2.0.20</vulkan-version>
+        <release-date>2018-04-30</release-date>
     </driver>
     <driver version="18.3.4" operating-system="Windows">
         <whql>Optional</whql>
@@ -55,6 +62,7 @@
         <internal-version>17.50.33.05</internal-version>
         <windows-version>23.20.15033.5003</windows-version>
         <vulkan-version>2.0.18</vulkan-version>
+        <release-date>2018-03-26</release-date>
     </driver>
     <driver version="18.3.3" operating-system="Windows">
         <whql>Optional</whql>
@@ -62,6 +70,7 @@
         <internal-version>17.50.33.01</internal-version>
         <windows-version>23.20.15033.1003</windows-version>
         <vulkan-version>2.0.18</vulkan-version>
+        <release-date>2018-03-19</release-date>
     </driver>
     <driver version="18.3.2" operating-system="Windows">
         <whql>Optional</whql>
@@ -69,6 +78,7 @@
         <internal-version>17.50.27.02</internal-version>
         <windows-version>23.20.15027.2002</windows-version>
         <vulkan-version>2.0.14</vulkan-version>
+        <release-date>2018-03-12</release-date>
     </driver>
     <driver version="18.3.1" operating-system="Windows">
         <whql>Optional</whql>
@@ -76,6 +86,7 @@
         <internal-version>17.50.27.01</internal-version>
         <windows-version>23.20.15027.1004</windows-version>
         <vulkan-version>2.0.14</vulkan-version>
+        <release-date>2018-03-05</release-date>
     </driver>
     <driver version="18.2.3" operating-system="Windows">
         <whql>Optional</whql>
@@ -83,6 +94,7 @@
         <internal-version>17.50.25.01</internal-version>
         <windows-version>23.20.15025.1004</windows-version>
         <vulkan-version>2.0.14</vulkan-version>
+        <release-date>2018-02-22</release-date>
     </driver>
     <driver version="18.2.2" operating-system="Windows">
         <whql>Optional</whql>
@@ -90,6 +102,7 @@
         <internal-version>17.50.17.04</internal-version>
         <windows-version>23.20.15017.4003</windows-version>
         <vulkan-version>N/A</vulkan-version>
+        <release-date>2018-02-12</release-date>
     </driver>
     <driver version="18.2.1" operating-system="Windows">
         <whql>WHQL</whql>
@@ -97,6 +110,7 @@
         <internal-version>17.50.17.03</internal-version>
         <windows-version>23.20.15017.3010</windows-version>
         <vulkan-version>N/A</vulkan-version>
+        <release-date>2018-02-01</release-date>
     </driver>
     <driver version="18.1.1" operating-system="Windows">
         <whql>Optional</whql>
@@ -104,5 +118,6 @@
         <internal-version>17.50.15.01</internal-version>
         <windows-version>23.20.15015.1002</windows-version>
         <vulkan-version>N/A</vulkan-version>
+        <release-date>2018-01-18</release-date>
     </driver>
 </amd_drivers>
