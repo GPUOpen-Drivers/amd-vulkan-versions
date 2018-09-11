@@ -10,6 +10,7 @@ Iterate over `<amd_drivers>` and interrogate the following:
         <internal-version>INTERNAL_VERSION</internal-version>
         <windows-version>WINDOWS_VERSION</windows-version>
         <vulkan-version>VULKAN_VERSION</vulkan-version>
+	<release-date>ISO 8601 YYYY-MM-DD</release-date>
     </driver>
 </amd_drivers>
 ```
@@ -21,4 +22,5 @@ Iterate over `<amd_drivers>` and interrogate the following:
 - `download-url`: Download link
 - `internal-version`: AMD internal development version number
 - `windows-version`: Windows Driver Store version number
-- `vulkan-version`: AMD Vulkan ICD version number  
+- `vulkan-version`: AMD Vulkan ICD version number
+- `release-date`: ISO 8601 YYYY-MM-DD release date
