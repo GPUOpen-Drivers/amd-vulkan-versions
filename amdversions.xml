@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
+    <driver version="19.3.3" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-19-3-3</download-url>
+        <internal-version>18.50.27.09</internal-version>
+        <windows-version>25.20.15027.9004</windows-version>
+        <vulkan-version>2.0.78</vulkan-version>
+        <release-date>2019-03-20</release-date>
+    </driver>
     <driver version="19.3.2" operating-system="Windows">
         <whql>Optional</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-19-3-2</download-url>
