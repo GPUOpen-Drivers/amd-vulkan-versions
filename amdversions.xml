@@ -97,7 +97,7 @@
         <release-date>2019-06-27</release-date>
     </driver>
     <driver version="19.6.2" operating-system="Windows">
-        <whql>Optional</whql>
+        <whql>WHQL</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-19-6-2</download-url>
         <internal-version>19.20.01.07</internal-version>
         <windows-version>26.20.12001.7006</windows-version>
