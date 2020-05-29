@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
+    <driver version="20.5.1" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-20-5-1</download-url>
+        <internal-version>20.10.17.01</internal-version>
+        <windows-version>27.20.1017.1011</windows-version>
+        <vulkan-version>2.0.137</vulkan-version>
+        <release-date>2020-05-27</release-date>
+    </driver>
     <driver version="20.4.2" operating-system="Windows">
         <whql>Optional</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-20-4-2</download-url>
