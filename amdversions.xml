@@ -25,10 +25,10 @@
         <release-date>2020-05-27</release-date>
     </driver>
     <driver version="20.4.2" operating-system="Windows">
-        <whql>Optional</whql>
+        <whql>WHQL</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-20-4-2</download-url>
         <internal-version>19.50.29.27</internal-version>
-        <windows-version>26.20.15029.27015</windows-version>
+        <windows-version>26.20.15029.27017</windows-version>
         <vulkan-version>2.0.137</vulkan-version>
         <release-date>2020-04-23</release-date>
     </driver>
