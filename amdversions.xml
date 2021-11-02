@@ -17,7 +17,7 @@
         <release-date>2021-9-13</release-date>
     </driver>
     <driver version="21.8.2" operating-system="Windows">
-        <whql>Optional</whql>
+        <whql>WHQL</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-21-8-2</download-url>
         <internal-version>21.20.25.01</internal-version>
         <windows-version>27.20.22025.1006</windows-version>
