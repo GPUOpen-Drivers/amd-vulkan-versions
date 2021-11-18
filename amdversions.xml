@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
+    <driver version="21.11.3" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-21-11-3</download-url>
+        <internal-version>21.30.37.01</internal-version>
+        <windows-version>30.0.13037.1003</windows-version>
+        <vulkan-version>2.0.204</vulkan-version>
+        <release-date>2021-11-17</release-date>
+    </driver>
     <driver version="21.11.2" operating-system="Windows">
         <whql>Optional</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-21-11-2</download-url>
