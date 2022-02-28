@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
+    <driver version="22.2.3" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-22-2-3</download-url>
+        <internal-version>21.40.29.05</internal-version>
+        <windows-version>30.0.14029.5006</windows-version>
+        <vulkan-version>2.0.213</vulkan-version>
+        <release-date>2022-02-24</release-date>
+    </driver>
     <driver version="22.2.2" operating-system="Windows">
         <whql>Optional</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-22-2-2</download-url>
