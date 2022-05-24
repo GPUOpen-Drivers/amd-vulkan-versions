@@ -8,6 +8,14 @@
         <vulkan-version>2.0.226</vulkan-version>
         <release-date>2022-05-23</release-date>
     </driver>
+    <driver version="Preview Driver May 2022" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-preview-may2022</download-url>
+        <internal-version>22.10.01.03</internal-version>
+        <windows-version>30.0.21001.3006</windows-version>
+        <vulkan-version>2.0.220</vulkan-version>
+        <release-date>2022-05-10</release-date>
+    </driver>
     <driver version="22.5.1" operating-system="Windows">
         <whql>WHQL</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-22-5-1</download-url>
