@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
+    <driver version="23.5.2" operating-system="Windows">
+        <whql>WHQL</whql>
+        <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-23-5-2</download-url>
+        <internal-version>22.40.57.05</internal-version>
+        <windows-version>31.0.14057.5006</windows-version>
+        <vulkan-version>2.0.262</vulkan-version>
+        <release-date>2023-06-01</release-date>
+    </driver>
     <driver version="23.5.1" operating-system="Windows">
         <whql>WHQL</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-23-5-1</download-url>
