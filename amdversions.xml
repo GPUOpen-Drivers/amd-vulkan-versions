@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
+    <driver version="24.2.1" operating-system="Windows">
+        <whql>WHQL</whql>
+        <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-24-2-1</download-url>
+        <internal-version>23.40.19.01</internal-version>
+        <windows-version>31.0.24019.1006</windows-version>
+        <vulkan-version>2.0.299</vulkan-version>
+        <release-date>2024-02-26</release-date>
+    </driver>
     <driver version="24.1.1" operating-system="Windows">
         <whql>WHQL</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-24-1-1</download-url>
