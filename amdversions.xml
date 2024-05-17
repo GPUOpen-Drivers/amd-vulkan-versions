@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
+    <driver version="24.3.1 for Polaris and Vega" operating-system="Windows">
+        <whql>WHQL</whql>
+        <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-24-3-1-polaris-vega</download-url>
+        <internal-version>23.19.12</internal-version>
+        <windows-version>31.0.21912.14</windows-version>
+        <vulkan-version>2.0.279</vulkan-version>
+        <release-date>2024-03-20</release-date>
+    </driver>
     <driver version="24.2.1" operating-system="Windows">
         <whql>WHQL</whql>
         <download-url>https://www.amd.com/en/support/kb/release-notes/rn-rad-win-24-2-1</download-url>
