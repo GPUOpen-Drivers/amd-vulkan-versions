@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
+    <driver version="25.2.1" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-25-2-1.html</download-url>
+        <internal-version>24.20.33.05</internal-version>
+        <windows-version>32.0.12033.5029</windows-version>
+        <vulkan-version>2.0.317</vulkan-version>
+        <release-date>2024-02-11</release-date>
+    </driver>
     <driver version="25.1.1" operating-system="Windows">
         <whql>Optional</whql>
         <download-url>https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-25-1-1.html</download-url>
