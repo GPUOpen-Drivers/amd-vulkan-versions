@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
+    <driver version="25.5.1 for Polaris and Vega" operating-system="Windows">
+        <whql>WHQL</whql>
+        <download-url>https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-25-5-1-polaris-vega.html</download-url>
+        <internal-version>23.19.23.01</internal-version>
+        <windows-version>31.0.21923.1000</windows-version>
+        <vulkan-version>2.0.279</vulkan-version>
+        <release-date>2025-05-07</release-date>
+    </driver>
     <driver version="25.4.1" operating-system="Windows">
         <whql>Optional</whql>
         <download-url>https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-25-4-1.html</download-url>
