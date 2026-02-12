@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <amd_drivers>
-   <driver version="26.1.1 for Polaris and Vega" operating-system="Windows">
+    <driver version="26.2.1 for RDNA1 and RDNA2" operating-system="Windows">
+        <whql>Optional</whql>
+        <download-url>https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-26-2-1.html</download-url>
+        <internal-version>25.10.41.05</internal-version>
+        <windows-version>32.0.21041.5002</windows-version>
+        <vulkan-version>2.0.353</vulkan-version>
+        <release-date>2026-02-11</release-date>
+    </driver>
+    <driver version="26.1.1 for Polaris and Vega" operating-system="Windows">
         <whql>WHQL</whql>
         <download-url>https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-26-1-1.html</download-url>
         <internal-version>23.19.24</internal-version>
